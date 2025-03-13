@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "961670185704",
+    "project_id": "porawapat-198dc",
+    "storage_bucket": "porawapat-198dc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961670185704:android:b7a8b7dc8ca07680ac7f5d",
+        "android_client_info": {
+          "package_name": "com.example.app_final_class"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBwqndE-mYX_g3qA5u1ktOz0gzQCV0faA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
