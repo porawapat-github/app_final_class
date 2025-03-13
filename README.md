@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-[online documentation](https://youtube.com/shorts/vlvoSpK1x0s?feature=share)
+[การจองตั๋วภาพยนตร์](https://youtube.com/shorts/vlvoSpK1x0s?feature=share)
